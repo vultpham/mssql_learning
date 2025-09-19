@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/learn_partitioning/partition_by_year/query_console.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/learn_partitioning/partition_by_year/step_2_create_file_group.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/learn_partitioning/partition_by_year/step_3_create_data_file.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/learn_partitioning/partition_by_year/step_4_create_partition_scheme.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/learn_partitioning/partition_by_year/step_5_create_partition_table.sql" dialect="TSQL" />
+  </component>
+  <component name="SqlResolveMappings">
+    <file url="file://$PROJECT_DIR$/learn_partitioning/partition_by_year/step_4_create_partition_scheme.sql" scope="{&quot;node&quot;:{  &quot;@negative&quot;:&quot;1&quot;,  &quot;group&quot;:{   &quot;@kind&quot;:&quot;root&quot;,   &quot;node&quot;:{    &quot;@negative&quot;:&quot;1&quot;   }  } }}" />
+  </component>
+</project>

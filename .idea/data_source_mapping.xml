@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourcePerFileMappings">
+    <file url="file://$PROJECT_DIR$/learn_partitioning/partition_by_year/query_console.sql" value="addfab16-8ce2-44d3-aff7-e77f357869dd" />
+    <file url="file://$PROJECT_DIR$/learn_partitioning/partition_by_year/step_2_create_file_group.sql" value="addfab16-8ce2-44d3-aff7-e77f357869dd" />
+    <file url="file://$PROJECT_DIR$/learn_partitioning/partition_by_year/step_3_create_data_file.sql" value="addfab16-8ce2-44d3-aff7-e77f357869dd" />
+    <file url="file://$PROJECT_DIR$/learn_partitioning/partition_by_year/step_4_create_partition_scheme.sql" value="addfab16-8ce2-44d3-aff7-e77f357869dd" />
+    <file url="file://$PROJECT_DIR$/learn_partitioning/partition_by_year/step_5_create_partition_table.sql" value="addfab16-8ce2-44d3-aff7-e77f357869dd" />
+  </component>
+</project>
