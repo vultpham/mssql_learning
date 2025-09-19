@@ -1,0 +1,3 @@
+CREATE PARTITION FUNCTION partition_by_year (date)
+    AS RANGE LEFT
+    FOR VALUES ('2019-01-01', '2020-01-01', '2021-01-01');
