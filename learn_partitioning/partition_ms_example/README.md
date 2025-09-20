@@ -1,0 +1,1 @@
+https://learn.microsoft.com/en-us/sql/relational-databases/partitions/create-partitioned-tables-and-indexes?view=sql-server-ver17#create-a-partitioned-table-on-one-filegroup-using-transact-sql
