@@ -7,6 +7,7 @@
     <file url="file://$PROJECT_DIR$/learn_partitioning/partition_by_year/step_4_create_partition_scheme.sql" dialect="TSQL" />
     <file url="file://$PROJECT_DIR$/learn_partitioning/partition_by_year/step_5_create_partition_table.sql" dialect="TSQL" />
     <file url="file://$PROJECT_DIR$/learn_partitioning/partition_ms_example/query_console.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/learn_partitioning/partitioning_fundamental/partition_by_year.sql" dialect="TSQL" />
   </component>
   <component name="SqlResolveMappings">
     <file url="file://$PROJECT_DIR$/learn_partitioning/partition_by_year/step_4_create_partition_scheme.sql" scope="{&quot;node&quot;:{  &quot;@negative&quot;:&quot;1&quot;,  &quot;group&quot;:{   &quot;@kind&quot;:&quot;root&quot;,   &quot;node&quot;:{    &quot;@negative&quot;:&quot;1&quot;   }  } }}" />
