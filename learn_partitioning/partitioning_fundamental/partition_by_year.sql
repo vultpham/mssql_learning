@@ -1,6 +1,7 @@
 CREATE DATABASE partition_by_year_example;
 USE partition_by_year_example;
 
+
 -- Create a partition function
 CREATE PARTITION FUNCTION partition_by_year(date)
 AS RANGE RIGHT
@@ -53,7 +54,7 @@ FROM transactions;
 SELECT * FROM transactions_without_partition WHERE transaction_date = '2021-02-01'
 
 
-SELECT * FROM transactions WHERE transaction_date = '2021-02-01' or transaction_date = '2022-03-01'
+SELECT * FROM transactions WHERE transaction_date = '2021-02-01'
 
 
 
